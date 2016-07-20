@@ -1,0 +1,58 @@
+body {
+
+	padding: 80px;
+}
+
+img {
+
+	margin: 15px;
+	
+
+}
+
+hr {
+
+	width: 150px;
+	color: #000000;
+	align: left;
+	margin-bottom: 10px;
+
+}
+
+
+.arriba {
+    
+    
+    left: 200px;
+    position: relative;
+    
+}
+.abajo{
+
+	left: 200px;
+	position: relative;
+		
+}
+
+span {
+
+	margin: 45px;
+	color: white;
+	
+}
+
+.nombre {
+
+	position: absolute;
+	left: 340px;
+	bottom: 220px;
+
+}
+
+.nombre2 {
+
+	position: absolute;
+	left: 340px;
+	top: 610px;
+
+}
